@@ -1,8 +1,8 @@
-### Welcome to my Github 👋
-I'm Suheon Song, a student who is interested in Data Engineering
+<h6>Welcome to my Github 👋</h6>
+I'm Suheon Song, a student who is interested in Data Engineering <br>
 🌱I'm currently learning Spring and Spring boot
 
-### 💪Skills
+<h6>💪Skills</h6>
 <b>Platforms & Languages:</b>
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
