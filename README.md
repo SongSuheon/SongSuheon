@@ -3,8 +3,8 @@ I'm Suheon Song, a student who is interested in Data Engineering
 
 🌱I'm currently learning Spring and Spring boot
 
-## Skills
-# Platforms & Languages:
+### Skills
+Platforms & Languages:
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
