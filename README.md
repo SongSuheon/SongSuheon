@@ -3,6 +3,7 @@ I'm Suheon Song, a student who is interested in Data Engineering
 
 🌱I'm currently learning Spring and Spring boot
 
+###Skills
 ## Platforms & Languages:
 <div>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
@@ -17,6 +18,6 @@ I'm Suheon Song, a student who is interested in Data Engineering
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
 
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songsuheon97)](https://solved.ac/songsuheon97/)
+<div>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songsuheon97)](https://solved.ac/songsuheon97/)
+</div>
