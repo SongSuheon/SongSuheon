@@ -1,1 +1,1 @@
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={userid})](https://solved.ac/{songsuheon97})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songsuheon97)](https://solved.ac/songsuheon97/)
