@@ -18,5 +18,4 @@ I'm Suheon Song, a student who is interested in Data Engineering
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </div>
 
-<div> </div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songsuheon97)](https://solved.ac/songsuheon97/)
