@@ -5,7 +5,6 @@ I'm Suheon Song, a student who is interested in Data Engineering <br>
 <h3>💪Skills</h3>
 <h4>Platforms & Languages:</h4>
 <div>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </div>
