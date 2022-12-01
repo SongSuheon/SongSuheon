@@ -1,4 +1,5 @@
-<h2>Suheon Song 🧑‍💻</h2> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuheoon&count_bg=%23FF8A3D&title_bg=%23666666&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a>
+<h2>🧑‍💻 SUHEON SONG</h2>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuheoon&count_bg=%233E9BD9&title_bg=%23333333&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/></a>
 <br>
 <h4>📖 Education</h4>
 <table>
@@ -8,7 +9,6 @@
     <td><a href="http://www.hangkong.ac.kr/web/index.do">한국항공대학교</a></td>
 </tr>
 </table>  
-<br>
 <h4>✨ Experience</h4>
 <table>
 <tr>
@@ -22,7 +22,6 @@
     <td><a href="https://www.swmaestro.org/sw/main/main.do">SW마에스트로</a></td>
 </tr>
 </table>  
-<br>
 <h4>🏆 Awards</h4>
 <table>
 <tr>
@@ -36,3 +35,6 @@
     <td><a href="https://www.swmaestro.org/sw/main/main.do">SW마에스트로</a></td>
 </tr>
 </table>
+<br>  
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songsuheon97)](https://solved.ac/songsuheon97/)
